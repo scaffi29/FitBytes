@@ -8,13 +8,12 @@ This app will let you plan meals with user created recipes. Users will have a pa
 Main Features
 <ul>
   <li>Meal Planning</li>
-  <li>Fitness Goal Tracking</li>
+  <li>Fitness/Goal Tracking</li>
   <li>User Profile/Stat page</li>
   <li>Barcode Scanner</li>
   <li>Pantry of ingredients</li>
-  <li>User Created Recipes/Goals</li>
+  <li>User Created Recipes</li>
   <li>Calendar View</li>
-  <li></li>
 </ul>
 
 Android 4.1/API 16+ supported.
